@@ -1,0 +1,4 @@
+this is where i learn how to create a table 
+collapsing of borders 
+linking in a sections on one page
+and a pseudo selector of function
